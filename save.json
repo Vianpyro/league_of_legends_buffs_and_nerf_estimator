@@ -1,0 +1,1260 @@
+{
+    "patch": "11.22.1",
+    "date": 1636584101.8438182,
+    "Aatrox": {
+        "popularity": 6.1,
+        "win_rate": 50.3,
+        "ban_rate": 2.8,
+        "mained_by": 0.8,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 8.3
+    },
+    "Ahri": {
+        "popularity": 4.0,
+        "win_rate": 51.2,
+        "ban_rate": 0.5,
+        "mained_by": 0.5,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 2.2
+    },
+    "Akali": {
+        "popularity": 7.3,
+        "win_rate": 48.5,
+        "ban_rate": 4.8,
+        "mained_by": 0.6,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 7.6
+    },
+    "Akshan": {
+        "popularity": 5.6,
+        "win_rate": 52.6,
+        "ban_rate": 14.6,
+        "mained_by": 1.0,
+        "riot_difficulty": 0,
+        "win_rate_by_experience": 5.1
+    },
+    "Alistar": {
+        "popularity": 4.0,
+        "win_rate": 49.4,
+        "ban_rate": 0.7,
+        "mained_by": 0.2,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 2.3
+    },
+    "Amumu": {
+        "popularity": 3.9,
+        "win_rate": 50.3,
+        "ban_rate": 4.8,
+        "mained_by": 0.3,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 1.7
+    },
+    "Anivia": {
+        "popularity": 3.9,
+        "win_rate": 53.2,
+        "ban_rate": 3.1,
+        "mained_by": 0.7,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 9.9
+    },
+    "Annie": {
+        "popularity": 3.1,
+        "win_rate": 52.0,
+        "ban_rate": 0.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": -8.8
+    },
+    "Aphelios": {
+        "popularity": 11.7,
+        "win_rate": 46.9,
+        "ban_rate": 2.9,
+        "mained_by": 1.0,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 2.8
+    },
+    "Ashe": {
+        "popularity": 3.9,
+        "win_rate": 50.5,
+        "ban_rate": 0.3,
+        "mained_by": 0.2,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 4.2
+    },
+    "AurelionSol": {
+        "popularity": 1.1,
+        "win_rate": 50.4,
+        "ban_rate": 0.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 10.3
+    },
+    "Azir": {
+        "popularity": 1.6,
+        "win_rate": 42.8,
+        "ban_rate": 0.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 6.5
+    },
+    "Bard": {
+        "popularity": 5.1,
+        "win_rate": 51.7,
+        "ban_rate": 1.1,
+        "mained_by": 0.7,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 2.4
+    },
+    "Blitzcrank": {
+        "popularity": 8.2,
+        "win_rate": 51.2,
+        "ban_rate": 11.2,
+        "mained_by": 0.6,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 4.6
+    },
+    "Brand": {
+        "popularity": 3.5,
+        "win_rate": 47.8,
+        "ban_rate": 0.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -12.5
+    },
+    "Braum": {
+        "popularity": 3.3,
+        "win_rate": 49.6,
+        "ban_rate": 0.4,
+        "mained_by": 0.1,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": -0.4
+    },
+    "Caitlyn": {
+        "popularity": 12.0,
+        "win_rate": 51.1,
+        "ban_rate": 2.8,
+        "mained_by": 0.8,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 4.0
+    },
+    "Camille": {
+        "popularity": 14.8,
+        "win_rate": 52.8,
+        "ban_rate": 26.1,
+        "mained_by": 1.8,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 1.5
+    },
+    "Cassiopeia": {
+        "popularity": 2.9,
+        "win_rate": 48.9,
+        "ban_rate": 1.2,
+        "mained_by": 0.4,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 1.1
+    },
+    "Chogath": {
+        "popularity": 2.5,
+        "win_rate": 49.4,
+        "ban_rate": 0.3,
+        "mained_by": 0.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 10.9
+    },
+    "Corki": {
+        "popularity": 2.4,
+        "win_rate": 50.8,
+        "ban_rate": 0.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 9.2
+    },
+    "Darius": {
+        "popularity": 7.5,
+        "win_rate": 50.5,
+        "ban_rate": 14.8,
+        "mained_by": 1.3,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": 3.8
+    },
+    "Diana": {
+        "popularity": 4.7,
+        "win_rate": 47.7,
+        "ban_rate": 1.7,
+        "mained_by": 0.4,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 4.8
+    },
+    "Draven": {
+        "popularity": 8.0,
+        "win_rate": 51.2,
+        "ban_rate": 15.7,
+        "mained_by": 1.3,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 9.6
+    },
+    "DrMundo": {
+        "popularity": 2.3,
+        "win_rate": 50.4,
+        "ban_rate": 0.6,
+        "mained_by": 0.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 5.5
+    },
+    "Ekko": {
+        "popularity": 13.0,
+        "win_rate": 49.6,
+        "ban_rate": 8.1,
+        "mained_by": 1.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 4.2
+    },
+    "Elise": {
+        "popularity": 3.8,
+        "win_rate": 50.5,
+        "ban_rate": 3.9,
+        "mained_by": 0.4,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 4.2
+    },
+    "Evelynn": {
+        "popularity": 4.6,
+        "win_rate": 49.5,
+        "ban_rate": 17.3,
+        "mained_by": 0.8,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 2.1
+    },
+    "Ezreal": {
+        "popularity": 16.3,
+        "win_rate": 48.1,
+        "ban_rate": 4.1,
+        "mained_by": 1.0,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 2.0
+    },
+    "Fiddlesticks": {
+        "popularity": 4.7,
+        "win_rate": 52.3,
+        "ban_rate": 7.7,
+        "mained_by": 0.8,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": -0.4
+    },
+    "Fiora": {
+        "popularity": 7.7,
+        "win_rate": 50.9,
+        "ban_rate": 19.8,
+        "mained_by": 0.9,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 4.3
+    },
+    "Fizz": {
+        "popularity": 3.4,
+        "win_rate": 50.8,
+        "ban_rate": 2.9,
+        "mained_by": 0.5,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 1.5
+    },
+    "Galio": {
+        "popularity": 5.4,
+        "win_rate": 50.9,
+        "ban_rate": 1.0,
+        "mained_by": 0.4,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": -2.8
+    },
+    "Gangplank": {
+        "popularity": 3.6,
+        "win_rate": 48.5,
+        "ban_rate": 1.6,
+        "mained_by": 0.6,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": -4.5
+    },
+    "Garen": {
+        "popularity": 4.4,
+        "win_rate": 51.1,
+        "ban_rate": 0.9,
+        "mained_by": 0.6,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 6.7
+    },
+    "Gnar": {
+        "popularity": 3.6,
+        "win_rate": 50.6,
+        "ban_rate": 0.6,
+        "mained_by": 0.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 4.8
+    },
+    "Gragas": {
+        "popularity": 5.2,
+        "win_rate": 50.1,
+        "ban_rate": 0.4,
+        "mained_by": 0.4,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 5.2
+    },
+    "Graves": {
+        "popularity": 20.7,
+        "win_rate": 51.0,
+        "ban_rate": 32.6,
+        "mained_by": 2.1,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 2.4
+    },
+    "Gwen": {
+        "popularity": 4.1,
+        "win_rate": 47.2,
+        "ban_rate": 2.3,
+        "mained_by": 0.3,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.0
+    },
+    "Hecarim": {
+        "popularity": 8.9,
+        "win_rate": 50.8,
+        "ban_rate": 6.4,
+        "mained_by": 0.7,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 2.9
+    },
+    "Heimerdinger": {
+        "popularity": 1.8,
+        "win_rate": 50.9,
+        "ban_rate": 0.5,
+        "mained_by": 0.3,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 13.2
+    },
+    "Illaoi": {
+        "popularity": 1.1,
+        "win_rate": 51.0,
+        "ban_rate": 0.4,
+        "mained_by": 0.2,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -2.6
+    },
+    "Irelia": {
+        "popularity": 10.3,
+        "win_rate": 48.7,
+        "ban_rate": 25.0,
+        "mained_by": 1.0,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 4.0
+    },
+    "Ivern": {
+        "popularity": 1.8,
+        "win_rate": 52.6,
+        "ban_rate": 0.3,
+        "mained_by": 0.2,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 9.2
+    },
+    "Janna": {
+        "popularity": 6.1,
+        "win_rate": 51.6,
+        "ban_rate": 0.5,
+        "mained_by": 0.5,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 0.7
+    },
+    "JarvanIV": {
+        "popularity": 7.3,
+        "win_rate": 49.9,
+        "ban_rate": 1.9,
+        "mained_by": 0.4,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 4.0
+    },
+    "Jax": {
+        "popularity": 6.8,
+        "win_rate": 50.5,
+        "ban_rate": 9.5,
+        "mained_by": 0.7,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.1
+    },
+    "Jayce": {
+        "popularity": 11.2,
+        "win_rate": 44.0,
+        "ban_rate": 1.4,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 3.7
+    },
+    "Jhin": {
+        "popularity": 30.3,
+        "win_rate": 50.7,
+        "ban_rate": 3.2,
+        "mained_by": 2.0,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 1.2
+    },
+    "Jinx": {
+        "popularity": 13.7,
+        "win_rate": 51.8,
+        "ban_rate": 0.6,
+        "mained_by": 0.8,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 3.0
+    },
+    "Kaisa": {
+        "popularity": 9.9,
+        "win_rate": 48.2,
+        "ban_rate": 0.6,
+        "mained_by": 0.8,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 6.0
+    },
+    "Kalista": {
+        "popularity": 2.1,
+        "win_rate": 48.8,
+        "ban_rate": 0.2,
+        "mained_by": 0.1,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 0.7
+    },
+    "Karma": {
+        "popularity": 9.5,
+        "win_rate": 50.4,
+        "ban_rate": 1.1,
+        "mained_by": 0.7,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": -2.5
+    },
+    "Karthus": {
+        "popularity": 4.5,
+        "win_rate": 52.1,
+        "ban_rate": 5.3,
+        "mained_by": 0.5,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": -2.1
+    },
+    "Kassadin": {
+        "popularity": 5.8,
+        "win_rate": 51.3,
+        "ban_rate": 15.8,
+        "mained_by": 0.6,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 7.5
+    },
+    "Katarina": {
+        "popularity": 7.8,
+        "win_rate": 50.6,
+        "ban_rate": 15.7,
+        "mained_by": 1.7,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": -0.3
+    },
+    "Kayle": {
+        "popularity": 3.9,
+        "win_rate": 51.0,
+        "ban_rate": 1.0,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 6.7
+    },
+    "Kayn": {
+        "popularity": 9.4,
+        "win_rate": 51.1,
+        "ban_rate": 23.2,
+        "mained_by": 1.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 4.6
+    },
+    "Kennen": {
+        "popularity": 5.3,
+        "win_rate": 49.4,
+        "ban_rate": 2.5,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 10.1
+    },
+    "Khazix": {
+        "popularity": 6.5,
+        "win_rate": 50.7,
+        "ban_rate": 10.3,
+        "mained_by": 1.2,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 8.1
+    },
+    "Kindred": {
+        "popularity": 4.5,
+        "win_rate": 52.3,
+        "ban_rate": 3.3,
+        "mained_by": 0.6,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 6.5
+    },
+    "Kled": {
+        "popularity": 2.3,
+        "win_rate": 50.3,
+        "ban_rate": 0.7,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 13.5
+    },
+    "KogMaw": {
+        "popularity": 2.0,
+        "win_rate": 52.5,
+        "ban_rate": 0.3,
+        "mained_by": 0.2,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": -5.3
+    },
+    "Leblanc": {
+        "popularity": 10.8,
+        "win_rate": 49.0,
+        "ban_rate": 25.1,
+        "mained_by": 0.8,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 8.8
+    },
+    "LeeSin": {
+        "popularity": 18.3,
+        "win_rate": 47.8,
+        "ban_rate": 19.9,
+        "mained_by": 1.7,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 1.3
+    },
+    "Leona": {
+        "popularity": 10.0,
+        "win_rate": 50.4,
+        "ban_rate": 15.1,
+        "mained_by": 0.6,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 1.3
+    },
+    "Lillia": {
+        "popularity": 4.9,
+        "win_rate": 50.5,
+        "ban_rate": 1.6,
+        "mained_by": 0.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 7.7
+    },
+    "Lissandra": {
+        "popularity": 4.3,
+        "win_rate": 52.1,
+        "ban_rate": 0.9,
+        "mained_by": 0.3,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": -1.6
+    },
+    "Lucian": {
+        "popularity": 20.7,
+        "win_rate": 49.3,
+        "ban_rate": 23.8,
+        "mained_by": 1.7,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 2.4
+    },
+    "Lulu": {
+        "popularity": 16.5,
+        "win_rate": 50.8,
+        "ban_rate": 25.5,
+        "mained_by": 1.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 4.7
+    },
+    "Lux": {
+        "popularity": 15.1,
+        "win_rate": 50.8,
+        "ban_rate": 3.0,
+        "mained_by": 1.3,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 2.4
+    },
+    "Malphite": {
+        "popularity": 5.5,
+        "win_rate": 50.6,
+        "ban_rate": 5.4,
+        "mained_by": 0.2,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": 3.4
+    },
+    "Malzahar": {
+        "popularity": 3.8,
+        "win_rate": 50.1,
+        "ban_rate": 1.9,
+        "mained_by": 0.3,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 4.5
+    },
+    "Maokai": {
+        "popularity": 3.8,
+        "win_rate": 51.6,
+        "ban_rate": 0.6,
+        "mained_by": 0.4,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": -2.9
+    },
+    "MasterYi": {
+        "popularity": 3.1,
+        "win_rate": 47.8,
+        "ban_rate": 3.4,
+        "mained_by": 0.6,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -1.8
+    },
+    "MissFortune": {
+        "popularity": 12.9,
+        "win_rate": 49.4,
+        "ban_rate": 5.3,
+        "mained_by": 1.8,
+        "riot_difficulty": 1,
+        "win_rate_by_experience": 5.2
+    },
+    "MonkeyKing": {
+        "popularity": 4.0,
+        "win_rate": 52.6,
+        "ban_rate": 1.0,
+        "mained_by": 0.5,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": -0.9
+    },
+    "Mordekaiser": {
+        "popularity": 4.5,
+        "win_rate": 48.7,
+        "ban_rate": 2.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 7.8
+    },
+    "Morgana": {
+        "popularity": 6.1,
+        "win_rate": 48.7,
+        "ban_rate": 16.1,
+        "mained_by": 0.2,
+        "riot_difficulty": 1,
+        "win_rate_by_experience": 7.1
+    },
+    "Nami": {
+        "popularity": 18.3,
+        "win_rate": 51.3,
+        "ban_rate": 18.5,
+        "mained_by": 2.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.4
+    },
+    "Nasus": {
+        "popularity": 3.5,
+        "win_rate": 51.5,
+        "ban_rate": 1.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": -0.3
+    },
+    "Nautilus": {
+        "popularity": 6.5,
+        "win_rate": 48.9,
+        "ban_rate": 5.9,
+        "mained_by": 0.3,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 9.0
+    },
+    "Neeko": {
+        "popularity": 1.2,
+        "win_rate": 49.5,
+        "ban_rate": 0.1,
+        "mained_by": 0.1,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.1
+    },
+    "Nidalee": {
+        "popularity": 6.5,
+        "win_rate": 50.3,
+        "ban_rate": 5.6,
+        "mained_by": 0.7,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 2.6
+    },
+    "Nocturne": {
+        "popularity": 3.2,
+        "win_rate": 50.6,
+        "ban_rate": 1.7,
+        "mained_by": 0.4,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 4.2
+    },
+    "Nunu": {
+        "popularity": 4.5,
+        "win_rate": 49.9,
+        "ban_rate": 1.8,
+        "mained_by": 0.8,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 1.2
+    },
+    "Olaf": {
+        "popularity": 1.8,
+        "win_rate": 48.8,
+        "ban_rate": 1.0,
+        "mained_by": 0.1,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": -5.1
+    },
+    "Orianna": {
+        "popularity": 3.7,
+        "win_rate": 47.8,
+        "ban_rate": 0.1,
+        "mained_by": 0.2,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 4.6
+    },
+    "Ornn": {
+        "popularity": 3.1,
+        "win_rate": 49.7,
+        "ban_rate": 0.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 1.4
+    },
+    "Pantheon": {
+        "popularity": 3.3,
+        "win_rate": 50.1,
+        "ban_rate": 0.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -2.1
+    },
+    "Poppy": {
+        "popularity": 6.5,
+        "win_rate": 51.1,
+        "ban_rate": 4.7,
+        "mained_by": 0.7,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 0.9
+    },
+    "Pyke": {
+        "popularity": 7.6,
+        "win_rate": 50.0,
+        "ban_rate": 5.3,
+        "mained_by": 1.1,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 7.1
+    },
+    "Qiyana": {
+        "popularity": 8.6,
+        "win_rate": 50.1,
+        "ban_rate": 15.7,
+        "mained_by": 1.6,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 1.5
+    },
+    "Quinn": {
+        "popularity": 1.4,
+        "win_rate": 52.9,
+        "ban_rate": 0.4,
+        "mained_by": 0.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 4.4
+    },
+    "Rakan": {
+        "popularity": 11.2,
+        "win_rate": 50.0,
+        "ban_rate": 1.3,
+        "mained_by": 0.7,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": -9.2
+    },
+    "Rammus": {
+        "popularity": 1.8,
+        "win_rate": 52.9,
+        "ban_rate": 2.0,
+        "mained_by": 0.3,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 8.1
+    },
+    "RekSai": {
+        "popularity": 4.3,
+        "win_rate": 54.1,
+        "ban_rate": 2.6,
+        "mained_by": 0.6,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 9.8
+    },
+    "Rell": {
+        "popularity": 2.7,
+        "win_rate": 51.4,
+        "ban_rate": 0.7,
+        "mained_by": 0.3,
+        "riot_difficulty": 0,
+        "win_rate_by_experience": 2.4
+    },
+    "Renekton": {
+        "popularity": 5.9,
+        "win_rate": 48.8,
+        "ban_rate": 2.9,
+        "mained_by": 0.1,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 8.5
+    },
+    "Rengar": {
+        "popularity": 4.5,
+        "win_rate": 50.7,
+        "ban_rate": 3.6,
+        "mained_by": 0.9,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": -6.3
+    },
+    "Riven": {
+        "popularity": 6.3,
+        "win_rate": 49.9,
+        "ban_rate": 5.1,
+        "mained_by": 1.0,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": -7.2
+    },
+    "Rumble": {
+        "popularity": 3.0,
+        "win_rate": 50.8,
+        "ban_rate": 0.4,
+        "mained_by": 0.4,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 8.3
+    },
+    "Ryze": {
+        "popularity": 4.0,
+        "win_rate": 45.0,
+        "ban_rate": 0.3,
+        "mained_by": 0.1,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 6.8
+    },
+    "Samira": {
+        "popularity": 5.8,
+        "win_rate": 48.2,
+        "ban_rate": 7.9,
+        "mained_by": 0.5,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 2.6
+    },
+    "Sejuani": {
+        "popularity": 1.8,
+        "win_rate": 51.9,
+        "ban_rate": 0.1,
+        "mained_by": 0.2,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 1.6
+    },
+    "Senna": {
+        "popularity": 4.8,
+        "win_rate": 49.8,
+        "ban_rate": 1.0,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 6.4
+    },
+    "Seraphine": {
+        "popularity": 4.5,
+        "win_rate": 48.3,
+        "ban_rate": 0.6,
+        "mained_by": 0.3,
+        "riot_difficulty": 0,
+        "win_rate_by_experience": 3.9
+    },
+    "Sett": {
+        "popularity": 7.8,
+        "win_rate": 49.3,
+        "ban_rate": 5.0,
+        "mained_by": 0.9,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": 6.1
+    },
+    "Shaco": {
+        "popularity": 5.5,
+        "win_rate": 50.2,
+        "ban_rate": 8.9,
+        "mained_by": 1.1,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 4.6
+    },
+    "Shen": {
+        "popularity": 5.8,
+        "win_rate": 50.7,
+        "ban_rate": 1.0,
+        "mained_by": 0.7,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 8.2
+    },
+    "Shyvana": {
+        "popularity": 1.6,
+        "win_rate": 48.3,
+        "ban_rate": 0.1,
+        "mained_by": 0.2,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -0.3
+    },
+    "Singed": {
+        "popularity": 2.8,
+        "win_rate": 52.2,
+        "ban_rate": 0.6,
+        "mained_by": 0.5,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 7.8
+    },
+    "Sion": {
+        "popularity": 5.0,
+        "win_rate": 48.9,
+        "ban_rate": 0.5,
+        "mained_by": 0.6,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 11.0
+    },
+    "Sivir": {
+        "popularity": 2.1,
+        "win_rate": 49.9,
+        "ban_rate": 0.1,
+        "mained_by": 0.1,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": -7.8
+    },
+    "Skarner": {
+        "popularity": 1.1,
+        "win_rate": 49.4,
+        "ban_rate": 0.1,
+        "mained_by": 0.1,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": -0.4
+    },
+    "Sona": {
+        "popularity": 4.0,
+        "win_rate": 53.6,
+        "ban_rate": 0.5,
+        "mained_by": 0.4,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 2.2
+    },
+    "Soraka": {
+        "popularity": 7.7,
+        "win_rate": 52.7,
+        "ban_rate": 3.6,
+        "mained_by": 0.6,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 11.1
+    },
+    "Swain": {
+        "popularity": 2.6,
+        "win_rate": 50.6,
+        "ban_rate": 0.4,
+        "mained_by": 0.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 2.5
+    },
+    "Sylas": {
+        "popularity": 11.4,
+        "win_rate": 48.3,
+        "ban_rate": 5.9,
+        "mained_by": 0.8,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 7.2
+    },
+    "Syndra": {
+        "popularity": 5.6,
+        "win_rate": 47.2,
+        "ban_rate": 0.7,
+        "mained_by": 0.2,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 6.4
+    },
+    "TahmKench": {
+        "popularity": 5.8,
+        "win_rate": 52.0,
+        "ban_rate": 10.7,
+        "mained_by": 0.7,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 1.7
+    },
+    "Taliyah": {
+        "popularity": 2.9,
+        "win_rate": 51.4,
+        "ban_rate": 0.4,
+        "mained_by": 0.3,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.2
+    },
+    "Talon": {
+        "popularity": 11.6,
+        "win_rate": 50.6,
+        "ban_rate": 23.9,
+        "mained_by": 1.3,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 20.8
+    },
+    "Taric": {
+        "popularity": 1.2,
+        "win_rate": 50.6,
+        "ban_rate": 0.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 12.6
+    },
+    "Teemo": {
+        "popularity": 5.8,
+        "win_rate": 49.7,
+        "ban_rate": 15.1,
+        "mained_by": 0.6,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 3.6
+    },
+    "Thresh": {
+        "popularity": 13.7,
+        "win_rate": 49.2,
+        "ban_rate": 10.0,
+        "mained_by": 1.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 1.1
+    },
+    "Tristana": {
+        "popularity": 4.6,
+        "win_rate": 49.7,
+        "ban_rate": 0.8,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 11.8
+    },
+    "Trundle": {
+        "popularity": 3.3,
+        "win_rate": 50.8,
+        "ban_rate": 0.9,
+        "mained_by": 0.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.9
+    },
+    "Tryndamere": {
+        "popularity": 4.0,
+        "win_rate": 52.7,
+        "ban_rate": 6.9,
+        "mained_by": 0.5,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 3.7
+    },
+    "TwistedFate": {
+        "popularity": 8.2,
+        "win_rate": 49.4,
+        "ban_rate": 2.3,
+        "mained_by": 0.5,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 2.8
+    },
+    "Twitch": {
+        "popularity": 6.3,
+        "win_rate": 50.7,
+        "ban_rate": 1.7,
+        "mained_by": 0.9,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 8.0
+    },
+    "Udyr": {
+        "popularity": 1.4,
+        "win_rate": 49.1,
+        "ban_rate": 0.4,
+        "mained_by": 0.2,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 1.5
+    },
+    "Urgot": {
+        "popularity": 4.0,
+        "win_rate": 51.5,
+        "ban_rate": 1.0,
+        "mained_by": 0.6,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 13.4
+    },
+    "Varus": {
+        "popularity": 1.6,
+        "win_rate": 47.5,
+        "ban_rate": 0.1,
+        "mained_by": 0.1,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": 4.8
+    },
+    "Vayne": {
+        "popularity": 12.2,
+        "win_rate": 51.5,
+        "ban_rate": 9.1,
+        "mained_by": 1.2,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 0.3
+    },
+    "Veigar": {
+        "popularity": 5.6,
+        "win_rate": 48.5,
+        "ban_rate": 0.7,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": -5.8
+    },
+    "Velkoz": {
+        "popularity": 2.6,
+        "win_rate": 50.5,
+        "ban_rate": 0.2,
+        "mained_by": 0.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 5.3
+    },
+    "Vex": {
+        "popularity": 9.1,
+        "win_rate": 49.7,
+        "ban_rate": 31.7,
+        "mained_by": 1.3,
+        "riot_difficulty": 0,
+        "win_rate_by_experience": 9.1
+    },
+    "Vi": {
+        "popularity": 5.5,
+        "win_rate": 49.4,
+        "ban_rate": 1.2,
+        "mained_by": 0.3,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 3.5
+    },
+    "Viego": {
+        "popularity": 14.0,
+        "win_rate": 48.8,
+        "ban_rate": 11.9,
+        "mained_by": 1.2,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 4.0
+    },
+    "Viktor": {
+        "popularity": 4.4,
+        "win_rate": 50.4,
+        "ban_rate": 0.4,
+        "mained_by": 0.3,
+        "riot_difficulty": 9,
+        "win_rate_by_experience": 3.0
+    },
+    "Vladimir": {
+        "popularity": 6.9,
+        "win_rate": 52.4,
+        "ban_rate": 7.7,
+        "mained_by": 1.0,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 5.0
+    },
+    "Volibear": {
+        "popularity": 4.3,
+        "win_rate": 47.4,
+        "ban_rate": 1.0,
+        "mained_by": 0.4,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": -2.2
+    },
+    "Warwick": {
+        "popularity": 3.2,
+        "win_rate": 50.7,
+        "ban_rate": 0.8,
+        "mained_by": 0.5,
+        "riot_difficulty": 3,
+        "win_rate_by_experience": 0.3
+    },
+    "Xayah": {
+        "popularity": 14.4,
+        "win_rate": 49.2,
+        "ban_rate": 15.9,
+        "mained_by": 0.6,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 0.3
+    },
+    "Xerath": {
+        "popularity": 6.3,
+        "win_rate": 48.9,
+        "ban_rate": 1.5,
+        "mained_by": 0.7,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": -0.6
+    },
+    "XinZhao": {
+        "popularity": 6.7,
+        "win_rate": 50.0,
+        "ban_rate": 5.8,
+        "mained_by": 0.3,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": 3.7
+    },
+    "Yasuo": {
+        "popularity": 14.2,
+        "win_rate": 49.2,
+        "ban_rate": 17.5,
+        "mained_by": 2.4,
+        "riot_difficulty": 10,
+        "win_rate_by_experience": 3.4
+    },
+    "Yone": {
+        "popularity": 13.1,
+        "win_rate": 49.1,
+        "ban_rate": 19.2,
+        "mained_by": 1.4,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": 5.8
+    },
+    "Yorick": {
+        "popularity": 1.4,
+        "win_rate": 48.1,
+        "ban_rate": 0.6,
+        "mained_by": 0.2,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 5.1
+    },
+    "Yuumi": {
+        "popularity": 11.8,
+        "win_rate": 47.4,
+        "ban_rate": 54.6,
+        "mained_by": 1.7,
+        "riot_difficulty": 2,
+        "win_rate_by_experience": -0.6
+    },
+    "Zac": {
+        "popularity": 5.4,
+        "win_rate": 51.7,
+        "ban_rate": 2.2,
+        "mained_by": 0.8,
+        "riot_difficulty": 8,
+        "win_rate_by_experience": -0.7
+    },
+    "Zed": {
+        "popularity": 10.9,
+        "win_rate": 48.9,
+        "ban_rate": 34.7,
+        "mained_by": 1.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 3.7
+    },
+    "Ziggs": {
+        "popularity": 5.4,
+        "win_rate": 51.6,
+        "ban_rate": 1.2,
+        "mained_by": 0.2,
+        "riot_difficulty": 4,
+        "win_rate_by_experience": 1.0
+    },
+    "Zilean": {
+        "popularity": 6.4,
+        "win_rate": 48.3,
+        "ban_rate": 2.1,
+        "mained_by": 0.6,
+        "riot_difficulty": 6,
+        "win_rate_by_experience": 1.7
+    },
+    "Zoe": {
+        "popularity": 5.8,
+        "win_rate": 49.8,
+        "ban_rate": 2.1,
+        "mained_by": 0.5,
+        "riot_difficulty": 5,
+        "win_rate_by_experience": 6.2
+    },
+    "Zyra": {
+        "popularity": 3.1,
+        "win_rate": 52.6,
+        "ban_rate": 0.8,
+        "mained_by": 0.4,
+        "riot_difficulty": 7,
+        "win_rate_by_experience": 7.0
+    }
+}
